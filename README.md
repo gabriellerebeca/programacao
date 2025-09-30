@@ -1,2 +1,2 @@
 # programacao
-matéria de programção.
+matéria de programação.
